@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c16708e7ed7f8ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
             "id": "f9371c3f41ae4c31",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "테스트노트"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "테스트폴더/Test.md",
+                "file": "테스트노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Test의 나가는 링크"
+              "title": "테스트노트의 나가는 링크"
             }
           },
           {
@@ -160,7 +145,8 @@
               "title": "Test 개요"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,19 +155,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f16858b45cfe8c4c",
+  "active": "f9371c3f41ae4c31",
   "lastOpenFiles": [
-    "테스트폴더/Test.md",
     "Welcome.md",
     "테스트노트.md",
+    "테스트폴더/Test.md",
     "노트 이름.md",
     "테스트폴더",
     "책리스트.md",

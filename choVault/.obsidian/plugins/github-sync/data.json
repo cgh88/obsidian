@@ -1,6 +1,6 @@
 {
-  "remoteURL": "git@github.com:cgh88/obsidian.git",
-  "gitLocation": "",
+  "remoteURL": "https://github.com/cgh88/obsidian.git",
+  "gitLocation": "C:/Program Files/Git/",
   "syncinterval": 0,
-  "isSyncOnLoad": true
+  "isSyncOnLoad": false
 }
